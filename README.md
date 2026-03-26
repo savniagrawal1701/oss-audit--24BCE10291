@@ -56,5 +56,5 @@ To run these scripts on your local Linux machine, follow these steps:
 
 **Step 1: Clone the repository**
 ```bash
-git clone [https://github.com/](https://github.com/)[savniagrawal1701]/oss-audit-[24BCE10291].git
+git clone https://github.com/savniagrawal1701/oss-audit--24BCE10291.git
 cd oss-audit-[24BCE10291]
