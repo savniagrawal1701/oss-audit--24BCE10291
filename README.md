@@ -58,3 +58,15 @@ To run these scripts on your local Linux machine, follow these steps:
 ```bash
 git clone https://github.com/savniagrawal1701/oss-audit--24BCE10291.git
 cd oss-audit-[24BCE10291]
+
+![Screenshot 1.0](OPENSOURCE%20-PROJECT/SCRIPT1.0.png)
+![Screenshot 1.1](OPENSOURCE%20-PROJECT/SCRIPT1.1.png)
+![Screenshot 1.2](OPENSOURCE%20-PROJECT/SCRIPT1.2.png)
+![Screenshot 2.0](OPENSOURCE%20-PROJECT/SCRIPT2.0.png)
+![Screenshot 2.1](OPENSOURCE%20-PROJECT/SCRIPT2.1.png)
+![Screenshot 3.0](OPENSOURCE%20-PROJECT/SCRIPT3.0.png)
+![Screenshot 3.1](OPENSOURCE%20-PROJECT/SCRIPT3.1.png)
+![Screenshot 4.0](OPENSOURCE%20-PROJECT/SCRIPT4.0.png)
+![Screenshot 4.1](OPENSOURCE%20-PROJECT/SCRIPT4.1.png)
+![Screenshot 5.0](OPENSOURCE%20-PROJECT/SCRIPT5%2C0.png)
+![Screenshot 5.1](OPENSOURCE%20-PROJECT/SCRIPT5.1.png)
